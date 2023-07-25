@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hot");
         System.out.println("hothothot");
         System.out.println("mastermaster");
+        System.out.println("masternew");
     }
 }
