@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("new day");
         System.out.println("new day");
         System.out.println("new day");
+        System.out.println("new1");
     }
 }
