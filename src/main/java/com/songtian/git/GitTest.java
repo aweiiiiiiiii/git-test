@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("new hot fit");
         System.out.println("new m-h");
         System.out.println("newnewnew");
+        System.out.println("mastermaster");
     }
 }
