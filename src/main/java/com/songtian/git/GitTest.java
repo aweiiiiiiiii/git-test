@@ -6,14 +6,8 @@ public class GitTest {
         System.out.println("hello git2!");
         System.out.println("hello git3!");
         System.out.println("hello git4!");
-        System.out.println("master commit!");
-        System.out.println("hot-fix2!");
-        System.out.println("push test");
-        System.out.println("pull test");
-        System.out.println("giteepull test");
-        System.out.println("new day");
-        System.out.println("new day");
-        System.out.println("new day");
-        System.out.println("new1");
+        System.out.println("new hot fit");
+        System.out.println("new m-h");
+        System.out.println("newnewnew");
     }
 }
